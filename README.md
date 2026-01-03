@@ -1,6 +1,7 @@
 🐱 vs 🐶 Cats vs Dogs Image Classification (TensorFlow)
 
 A Convolutional Neural Network (CNN) implementation capable of classifying images of cats and dogs with high accuracy. This project was built as part of the freeCodeCamp Machine Learning curriculum to demonstrate an end-to-end deep learning pipeline for computer vision.
+
 📖 Overview
 
 This project implements a binary image classifier using TensorFlow and Keras. It takes raw images as input, processes them through a deep learning pipeline, and outputs a probability indicating whether the image contains a cat or a dog.
